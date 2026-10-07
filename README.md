@@ -15,10 +15,6 @@ Instagram : https://www.instagram.com/skhan_official/ <br>
 </p>
 <br>
 
-## One command Installation📥:
-
-visit : https://www.learntermux.tech/2020/02/Termux-Games-Script.html
-
 <br>
 
 ## Install📲:
